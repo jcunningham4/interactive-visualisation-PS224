@@ -1,0 +1,9 @@
+geopandas
+pandas
+matplotlib.pyplot
+ipyleaflet
+ipywidgets
+shapely.geometry
+sqlite3
+matplotlib.dates
+voila
