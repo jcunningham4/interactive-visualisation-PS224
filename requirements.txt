@@ -4,5 +4,5 @@ matplotlib
 ipyleaflet
 ipywidgets
 shapely
-sqlite3
+sqlite
 voila
