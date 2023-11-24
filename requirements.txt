@@ -1,9 +1,8 @@
 geopandas
 pandas
-matplotlib.pyplot
+matplotlib
 ipyleaflet
 ipywidgets
-shapely.geometry
+shapely
 sqlite3
-matplotlib.dates
 voila
